@@ -1,0 +1,5 @@
+{
+  "name": "DINH MMO - Tạo Nhân Vật Đồng Nhất",
+  "description": "Một ứng dụng cho phép người dùng tạo ra hình ảnh nhân vật đồng nhất bằng AI. Người dùng có thể tải lên ảnh tham chiếu cho nhân vật và bối cảnh, cung cấp câu lệnh và tạo ra hình ảnh mới.",
+  "requestFramePermissions": []
+}
